@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person type="Doctor">
+    <id>5</id>
+    <name>Jyoti Ranjan Mohanta</name>
+    <age>25</age>
+    <address>
+        <city>cuttack</city>
+        <country>India</country>
+        <state>Odisha</state>
+    </address>
+</person>

@@ -1,0 +1,10 @@
+{
+  "name": "Concepts of Physics",
+  "price": 697,
+  "author": {
+    "authorname": "H.C Verma",
+    "authorEmail": "hcverma123@gmail.com",
+    "authorPhoneNumber": "7978780756"
+  },
+  "bookId": 101
+}
